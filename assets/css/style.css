@@ -90,13 +90,14 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-item h3 {
+/*Updated the header size*/
+.benefit-item h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-item img {
+    display: block;
     display: block;
     margin: 10px auto;
     max-width: 150px;
